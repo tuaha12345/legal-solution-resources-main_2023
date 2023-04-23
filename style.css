@@ -1,0 +1,151 @@
+
+.carousal-one h1{
+	font-family: 'EB Garamond';
+	font-weight: 800;
+   font-size: 72px;
+}
+
+.carousal-one p{
+	font-family: 'Poppins';
+font-weight: 400;
+font-size: 16px;
+}
+
+.carousal-one{
+	background-image: url('images/banner.png');
+	height: 550px;
+width: 1115px;
+
+border-radius: 8px;
+
+}
+
+.carousal-one input{
+	width:40%;
+}
+
+.carousal_button button{
+   background-color: #B68C5A;
+}
+
+
+.card{
+	background-color: #E7E7E7;
+  height:400px; 
+  width:340px;
+  border-radius:none;
+}
+
+.card_linear{
+	background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
+}
+
+.card h3{
+   font-family:Arial;
+		font-weight: 800;
+		font-size: 32px;
+}
+
+
+.gg{
+	height:300px;
+}
+/*////////////////////////////////////// Second Carousel/////////////////////////////////*/
+.second-carousel img{
+/*width: 1170px;*/
+height: 550px;
+
+}
+
+.carousel-caption{
+
+    top: 40%;
+transform: translateY(-50%);
+
+}
+
+.carousel-indicators{
+	    top: 77%;
+transform: translateY(-10%);
+}
+
+/*//////////////////////////////////////// frequently asked questions////////////////////////*/
+
+.questions{
+	width: 500px;
+background: #F3F3F3;
+border-radius: 8px;
+}
+
+.contact{
+	background-color:#F3F3F3;
+	border:none;
+   width: 536px;
+   height: 65px;
+   border-radius: 8px;
+   margin-top: 20px;
+}
+
+::placeholder {
+  color: #707070;
+  padding: 20px;
+  font-weight: 400;
+font-size: 16px;
+}
+
+#message{
+	margin-top: 27px;
+	padding-top:20px;
+	padding-left:17px;
+  background-color:#F3F3F3;
+  border-radius:8px;
+  border:none;
+  color: #707070;
+}
+
+#submit{
+	background: #B68C5A;
+	font-weight: 600;
+font-size: 17px;
+}
+
+
+.contact_logo{
+	width: 270px;
+height: 272px;
+
+}
+
+.mmm{
+	border-radius: 8px;
+	background: #F3F3F3;
+	width:540px;
+}
+
+/*/////////////////////////////// footer///////////////////////////////*/
+
+footer{
+	width:100%;
+	color:white;
+	background: #111111;
+	padding-top:90px;
+	padding-bottom: 120px;
+}
+
+footer div{
+	position: relative;
+}
+footer p{
+	color: #CFCFCF;
+}
+footer input{
+	width: 324px;
+height: 55px;
+}
+#btn{
+	position:absolute;
+	right:7px;
+	background-color:#B68C5A;
+	width: 60px;
+height: 55px;
+}
